@@ -1,0 +1,1 @@
+{"name": "ryker.physics.js", "version": "1.0.0", "description": "A lightweight, high-performance 3D physics engine", "main": "Ryker.phisics.js", "type": "module", "author": "cyee86086-pixel", "license": "MIT", "keywords": ["physics", "3d", "engine", "gravity", "collision", "ryker"]}
